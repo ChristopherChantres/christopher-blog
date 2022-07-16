@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# christopher-blog
+This is my blog created using Next.js and React
